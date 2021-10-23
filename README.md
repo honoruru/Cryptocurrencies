@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-Grouping cryptocurrecuncies using unsupervised learning clustering algorithm.
+Grouping cryptocurrencies using unsupervised learning clustering algorithm.
 
 Deliverable 1: Preprocessing the Data for PCA
 
